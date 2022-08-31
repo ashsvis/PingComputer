@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingService", "PingService\PingService.csproj", "{732E252E-35D0-442B-AAF9-1EC1ED99760A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataService", "CommonDataService\CommonDataService.csproj", "{A3C486C4-1B09-431D-9B3E-C04EB9F5248A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataClient", "CommonDataClient\CommonDataClient.csproj", "{8D53B46A-6B9F-4C3C-AB46-CD1B66D06D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingClient", "PingClient\PingClient.csproj", "{9D1BF576-EDBF-4DDA-A651-680E23A444D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestPing", "ConsoleTestPing\ConsoleTestPing.csproj", "{2BB827CB-A816-436A-891C-B6AADBC695EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingSchedulerClient", "PingSchedulerClient\PingSchedulerClient.csproj", "{402CB884-B2BC-45AF-AC66-20F1763C97D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732E252E-35D0-442B-AAF9-1EC1ED99760A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732E252E-35D0-442B-AAF9-1EC1ED99760A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732E252E-35D0-442B-AAF9-1EC1ED99760A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732E252E-35D0-442B-AAF9-1EC1ED99760A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C486C4-1B09-431D-9B3E-C04EB9F5248A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C486C4-1B09-431D-9B3E-C04EB9F5248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C486C4-1B09-431D-9B3E-C04EB9F5248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C486C4-1B09-431D-9B3E-C04EB9F5248A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D53B46A-6B9F-4C3C-AB46-CD1B66D06D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D53B46A-6B9F-4C3C-AB46-CD1B66D06D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D53B46A-6B9F-4C3C-AB46-CD1B66D06D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D53B46A-6B9F-4C3C-AB46-CD1B66D06D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1BF576-EDBF-4DDA-A651-680E23A444D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1BF576-EDBF-4DDA-A651-680E23A444D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1BF576-EDBF-4DDA-A651-680E23A444D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1BF576-EDBF-4DDA-A651-680E23A444D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB827CB-A816-436A-891C-B6AADBC695EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB827CB-A816-436A-891C-B6AADBC695EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB827CB-A816-436A-891C-B6AADBC695EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB827CB-A816-436A-891C-B6AADBC695EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{402CB884-B2BC-45AF-AC66-20F1763C97D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402CB884-B2BC-45AF-AC66-20F1763C97D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402CB884-B2BC-45AF-AC66-20F1763C97D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402CB884-B2BC-45AF-AC66-20F1763C97D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A1255C-2024-4AFA-BFA1-22A57232ABE4}
+	EndGlobalSection
+EndGlobal
